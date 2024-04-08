@@ -9,17 +9,16 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f5f5f5;
+            background-color: #162534;
+            color: #fff;
         }
         header {
-            background-color: #007bff;
-            color: #fff;
+            background-color: #002147; /* Georgetown blue */
             padding: 20px;
             text-align: center;
         }
         nav {
-            background-color: #0056b3;
-            color: #fff;
+            background-color: #6699cc; /* Georgetown gray */
             padding: 10px;
             text-align: center;
         }
@@ -35,11 +34,12 @@
         }
         .content {
             background-color: #fff;
+            color: #000;
             padding: 20px;
             margin-top: 20px;
         }
         footer {
-            background-color: #333;
+            background-color: #002147; /* Georgetown blue */
             color: #fff;
             padding: 20px;
             text-align: center;
@@ -64,7 +64,7 @@
         <div class="content">
             <h2>Welcome to College Food Delivery Service</h2>
             <p>We deliver delicious food right to your doorstep on campus.</p>
-            <p>Order from a variety of cuisines and enjoy hassle-free delivery.</p>
+            <p>Order from a variety of cuisines including Epi's and Leo's and enjoy hassle-free delivery.</p>
         </div>
     </div>
     <footer>
